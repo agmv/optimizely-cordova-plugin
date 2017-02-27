@@ -21,7 +21,7 @@
     <runs/>
   </js-module>
 
-  <js-module src="www/lib/lodash.js" name="lodash">
+  <js-module src="www/lodash.js" name="lodash">
     <runs/>
   </js-module>
 
